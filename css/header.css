@@ -1,0 +1,79 @@
+ .header2 {
+   background-color: blue;
+   color: #fff;
+   padding-top: 8px;
+   padding-bottom: 6px;
+   position: sticky;
+   top: 0;
+   border-bottom: 1px solid white;
+
+
+ }
+
+ .title {
+   font-weight: 900;
+   color: #fff;
+/*   word-spacing: 2px;*/
+   text-decoration: none;
+   text-transform: capitalize;
+   margin-left:370px; 
+   font-size:30px;
+
+
+ }
+
+ .title:hover {
+   color: yellow;
+   text-decoration: none;
+ }
+
+ .both {
+   display: block;
+ }
+
+ /* Navigation Bar */
+ .all_link {
+   padding: 10px;
+   text-align: center;
+ }
+
+ .all_link li {
+   display: inline-block;
+   /* margin-left: 15px; */
+ }
+
+ .all_link a {
+   padding: 10px 15px;
+   font-size: 14px;
+   font-weight: 400;
+   letter-spacing: 1px;
+   color: #fff;
+   text-decoration: none;
+ }
+
+ .all_link a:hover {
+   color: #fff;
+ }
+
+/* Media Queries */
+/* Mobile devices (up to 767px) */
+@media screen and (max-width: 767px) {
+    /* Adjust styles for smaller screens */
+}
+
+/* Tablets and small desktops (768px to 1023px) */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Adjust styles for medium-sized screens */
+}
+
+/* Standard desktops (1024px to 1279px) */
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    /* Adjust styles for standard-sized screens */
+}
+
+/* Large desktops (1280px and above) */
+@media screen and (min-width: 1280px) {
+    /* Adjust styles for larger screens */
+}
+
+
