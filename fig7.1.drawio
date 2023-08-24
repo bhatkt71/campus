@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T07:04:58.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r1eIvssIu8ARBv-9mLg2" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T07:06:42.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5lJ99GPrMy_9NQIgWEGG" version="21.6.7" type="github">
   <diagram name="Page-1" id="ZAEzPE82K58AiT0_GOvJ">
     <mxGraphModel dx="1335" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="128" y="193" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NHK_0bTLlnZTEmvklJrU-2" value="Acceptance testing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Times New Roman;labelBorderColor=default;labelBackgroundColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="520" y="194" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NHK_0bTLlnZTEmvklJrU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NHK_0bTLlnZTEmvklJrU-3" target="NHK_0bTLlnZTEmvklJrU-5">
           <mxGeometry relative="1" as="geometry" />
@@ -41,15 +41,20 @@
           <mxGeometry x="578" y="473" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NHK_0bTLlnZTEmvklJrU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NHK_0bTLlnZTEmvklJrU-12" target="NHK_0bTLlnZTEmvklJrU-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="270" />
+              <mxPoint x="630" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NHK_0bTLlnZTEmvklJrU-12" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;System Testing&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;labelBackgroundColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="293" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NHK_0bTLlnZTEmvklJrU-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="NHK_0bTLlnZTEmvklJrU-2">
+        <mxCell id="NHK_0bTLlnZTEmvklJrU-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="220" as="sourcePoint" />
-            <mxPoint x="310" y="170" as="targetPoint" />
+            <mxPoint x="260" y="214" as="sourcePoint" />
+            <mxPoint x="530" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NHK_0bTLlnZTEmvklJrU-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -70,7 +75,7 @@
             <mxPoint x="520" y="492.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHK_0bTLlnZTEmvklJrU-24" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;fig. 7.1 levels of testing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NHK_0bTLlnZTEmvklJrU-24" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;fig. 6.1 levels of testing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="553" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
